@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/indexsiiam/static/css/main.eb9f019f.css",
-    "main.js": "/indexsiiam/static/js/main.9a46bded.js",
+    "main.css": "/indexsiiam/static/css/main.627d5156.css",
+    "main.js": "/indexsiiam/static/js/main.0d558d3b.js",
     "static/js/787.82f22fe5.chunk.js": "/indexsiiam/static/js/787.82f22fe5.chunk.js",
     "static/media/Uruapan-72.jpg": "/indexsiiam/static/media/Uruapan-72.3fe181560c2020b5ede7.jpg",
     "static/media/Tacambaro.jpg": "/indexsiiam/static/media/Tacambaro.e275def72574eb80a3d4.jpg",
@@ -27,7 +27,6 @@
     "static/media/estategia.png": "/indexsiiam/static/media/estategia.5afd7b639b7e94bafdf8.png",
     "static/media/1.jpeg": "/indexsiiam/static/media/1.5e81cfbb9ce6128ca5c7.jpeg",
     "static/media/jaguar.PNG": "/indexsiiam/static/media/jaguar.edc476f2f09088182097.PNG",
-    "static/media/img-ejemplo3.png": "/indexsiiam/static/media/img-ejemplo3.e31b95d8ec058a90b4c6.png",
     "static/media/loro.PNG": "/indexsiiam/static/media/loro.60d970b5da644287cb34.PNG",
     "static/media/3.jpeg": "/indexsiiam/static/media/3.48e843d27c5a037022ee.jpeg",
     "static/media/2.jpeg": "/indexsiiam/static/media/2.499bc8cfec2e6158b2bb.jpeg",
@@ -45,16 +44,12 @@
     "static/media/Icono Marco Jurídico-1.png": "/indexsiiam/static/media/Icono Marco Jurídico-1.b137dd9b116ba123d8eb.png",
     "static/media/6.jpeg": "/indexsiiam/static/media/6.78701cf7e5b02670d029.jpeg",
     "static/media/info3.jpeg": "/indexsiiam/static/media/info3.1c77160ef80860227a96.jpeg",
-    "static/media/img-ejemplo5.png": "/indexsiiam/static/media/img-ejemplo5.91972aeb10a8d3a73266.png",
-    "static/media/img-ejemplo2.png": "/indexsiiam/static/media/img-ejemplo2.6786913e58c51217a0bc.png",
     "static/media/11.jpeg": "/indexsiiam/static/media/11.4f9a5111b15ca7005529.jpeg",
     "static/media/info5.jpg": "/indexsiiam/static/media/info5.506a2d752808995695ce.jpg",
     "static/media/10.jpeg": "/indexsiiam/static/media/10.4cfd5a6804c562ba4153.jpeg",
     "static/media/libro1.png": "/indexsiiam/static/media/libro1.d053cf4c1542fb1b0d2b.png",
-    "static/media/img-ejemplo.jpg": "/indexsiiam/static/media/img-ejemplo.c40197696fd51d13babb.jpg",
     "static/media/8.jpeg": "/indexsiiam/static/media/8.5c2616d67201e883c827.jpeg",
     "static/media/12.jpeg": "/indexsiiam/static/media/12.b1dda776727cf17683d8.jpeg",
-    "static/media/img-ejemplo4.png": "/indexsiiam/static/media/img-ejemplo4.0740eb3f2c9556610dec.png",
     "static/media/info4.jpeg": "/indexsiiam/static/media/info4.7139f2d275a740c5a2c2.jpeg",
     "static/media/info2.jpeg": "/indexsiiam/static/media/info2.e60651cc64e294ffa079.jpeg",
     "static/media/Icono Residuos.png": "/indexsiiam/static/media/Icono Residuos.8510259893c69796f7d9.png",
@@ -81,12 +76,12 @@
     "static/media/Icono Proyectos.jpg": "/indexsiiam/static/media/Icono Proyectos.c7e3488911814e9a8f2b.jpg",
     "static/media/descarga-removebg-preview.png": "/indexsiiam/static/media/descarga-removebg-preview.34c712de576f04539ecc.png",
     "index.html": "/indexsiiam/index.html",
-    "main.eb9f019f.css.map": "/indexsiiam/static/css/main.eb9f019f.css.map",
-    "main.9a46bded.js.map": "/indexsiiam/static/js/main.9a46bded.js.map",
+    "main.627d5156.css.map": "/indexsiiam/static/css/main.627d5156.css.map",
+    "main.0d558d3b.js.map": "/indexsiiam/static/js/main.0d558d3b.js.map",
     "787.82f22fe5.chunk.js.map": "/indexsiiam/static/js/787.82f22fe5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb9f019f.css",
-    "static/js/main.9a46bded.js"
+    "static/css/main.627d5156.css",
+    "static/js/main.0d558d3b.js"
   ]
 }
